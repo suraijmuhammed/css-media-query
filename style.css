@@ -55,6 +55,9 @@ span{
     font-size: 3.5 rem;
 
   }
+  span{
+    text-align: center;
+  }
   .card{
     text-align:justify;
     margin-bottom: 30px;
